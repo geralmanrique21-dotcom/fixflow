@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Símbolo FixFlow">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<path d="M48 5 57 11 68 9 73 20 84 25 82 37 91 47 84 57 85 69 73 74 68 86 56 84 47 92 38 84 26 86 21 74 9 69 11 57 4 47 12 37 10 25 22 20 27 9 39 11Z" fill="#20243D" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+<rect x="20" y="28" width="56" height="43" rx="10" fill="#15172B" stroke="#DDE8FF" stroke-width="3"/>
+<path d="M29 44a19 19 0 0 1 38 0" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+<rect x="25" y="43" width="7" height="16" rx="3.5" fill="#22D3EE"/>
+<rect x="64" y="43" width="7" height="16" rx="3.5" fill="#A78BFA"/>
+<path d="M37 51q4-6 8 0m7 0q4-6 8 0" fill="none" stroke="#F4F7FF" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M65 60q0 9-10 9h-5" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+<circle cx="47" cy="69" r="3.5" fill="#A78BFA"/>
+<path d="m34 78 10-7m7 7 8-7" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+</svg>
